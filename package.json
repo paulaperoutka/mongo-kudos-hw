@@ -1,0 +1,24 @@
+{
+  "name": "mongo-kudos-hw",
+  "version": "1.0.0",
+  "description": "MongoDB Kudos Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulaperoutka/mongo-kudos-hw.git"
+  },
+  "author": "Paula Peroutka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulaperoutka/mongo-kudos-hw/issues"
+  },
+  "homepage": "https://github.com/paulaperoutka/mongo-kudos-hw#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  }
+}
